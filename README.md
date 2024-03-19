@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risingraj&label=Profile%20views&color=0e75b6&style=flat" alt="risingraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risingraj" alt="risingraj" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/risingraj26" target="blank"><img src="https://img.shields.io/twitter/follow/risingraj26?logo=twitter&style=for-the-badge" alt="risingraj26" /></a> </p>
 
 - 🌱 I’m currently learning **Clouds And Devops**
@@ -13,8 +11,7 @@
 
 - 📫 How to reach me **risingraj26@gmail.com**
 
-- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1ueb5mf2WkUpjxV03t3essQGohN2Le8OG/view?usp=drive_link)
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ueb5mf2WkUpjxV03t3essQGohN2Le8OG/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I can do anything i want to do ...**
 
