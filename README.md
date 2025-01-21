@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **risingraj26@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12zibbLVYDpH0OM_pt5R-4baqUyyKgjHx/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AeL-dJrb63BjBvnEeYR5BQpf4X1QqL6A/view)
 
 - ⚡ Fun fact **I think I can do anything i want to do ...**
 
